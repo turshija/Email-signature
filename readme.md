@@ -3,4 +3,4 @@ My email signature :)
 
 Preview
 ---------------------
-![Screenshot](/path/to/img.jpg "Signature preview")
+![Screenshot](http://d.pr/i/9iAc+ "Signature preview")
