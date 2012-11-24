@@ -1,5 +1,10 @@
 <?php
 $icons[] = array(
+    'name' => 'GitHub',
+    'url' => 'http://www.github.com/turshija',
+    'iconUrl' => 'http://www.turshija.com/signature/github.png'
+);
+$icons[] = array(
     'name' => 'GameTracker.rs',
     'url' => 'http://www.gametracker.rs/user_info/1/turshija/',
     'iconUrl' => 'http://www.turshija.com/signature/gtrs.png'
